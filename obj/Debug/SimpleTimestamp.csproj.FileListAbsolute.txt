@@ -1,0 +1,5 @@
+C:\Users\marc\RiderProjects\SimpleTimestamp\SimpleTimestamp\bin\Debug\SimpleTimestamp.exe
+C:\Users\marc\RiderProjects\SimpleTimestamp\SimpleTimestamp\bin\Debug\SimpleTimestamp.pdb
+C:\Users\marc\RiderProjects\SimpleTimestamp\SimpleTimestamp\obj\Debug\SimpleTimestamp.csprojResolveAssemblyReference.cache
+C:\Users\marc\RiderProjects\SimpleTimestamp\SimpleTimestamp\obj\Debug\SimpleTimestamp.exe
+C:\Users\marc\RiderProjects\SimpleTimestamp\SimpleTimestamp\obj\Debug\SimpleTimestamp.pdb
